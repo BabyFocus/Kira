@@ -1,11 +1,3 @@
-HEADER = r"""
- _  _____ ____      _    
-| |/ /_ _|  _ \    / \   
-| ' / | || |_) |  / _ \  
-| . \ | ||  _ <  / ___ \ 
-|_|\_\___|_| \_\/_/   \_\
-"""
-
 # Kira Scan
 
 Kira Scan is a Python-based OSINT and vulnerability scanner that leverages the Tor network for anonymous reconnaissance. It performs domain lookups, WHOIS queries, subdomain discovery, port scanning (via Nmap), tech fingerprinting, and CVE analysis through the NIST NVD API.
