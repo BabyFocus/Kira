@@ -1,0 +1,9 @@
+aiohttp
+requests
+beautifulsoup4
+python-whois
+tqdm
+python-nmap
+dnspython
+asyncio
+stem
